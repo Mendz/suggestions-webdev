@@ -1,6 +1,6 @@
 # CMDER
 
-[~~In Progress~]
+[**NOTE**: This page is still in Progress]
 
 <!-- After a some time using the original windows CMD with sometimes PowerShell. I decided to check other command lines. -->
 
