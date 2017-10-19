@@ -38,7 +38,7 @@
 * [Themes that I liked but not using at the moment](#themes-that-i-liked-but-not-using-at-the-moment)
   * [Dracula Official](#dracula-official-by-dracula-theme)
   * [Hopscotch (Official)](#hopscotch-official-by-idleberg)
-* [Not using at the moment](#not-useing-at-the-moment)
+* [Not using at the moment](#not-using-at-the-moment)
   * [Auto Close Tag](#auto-close-tag-by-jun-han)
   * [jsx](#jsx-by-twentychung)
   * [npm Intellisense](#npm-intellisense-by-christian-kohler)
