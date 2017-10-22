@@ -1,5 +1,7 @@
 # Chrome Extensions
 
+> _(Note: All the links information (description, title and etc') copied from the original sites.)_
+
 - [JSON Viewer](#json-viewer)
 - [JavaScript and CSS Code Beautifier](#javascript-and-css-code-beautifier)
 - [Markdown Viewer](#markdown-viewer)
@@ -24,7 +26,9 @@
 
     Beautify CSS, JavaScript and JSON code when you open a .css/.js/.json file.
 
-    _(Note: that for JSON files this extension can collide with JSON Viewer.)_
+> _(Note: that for JSON files this extension can collide with JSON Viewer.)_
+>
+> Mendy
 
 1. ## [Markdown Viewer]
 

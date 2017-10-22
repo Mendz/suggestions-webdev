@@ -1,5 +1,7 @@
 # VSCode Extensions
 
+> _(Note: All the links information (description, title and etc') copied from the original sites.)_
+
 * [Enhance VSCode](#enhance-vscode)
   * [Settings Sync](#settings-sync-by-shan-khan)
   * [Code Spell Checker](#code-spell-checker-by-street-side-software)
