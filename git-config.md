@@ -19,7 +19,7 @@
 	lgfull = log --graph --numstat --abbrev-commit --decorate --pretty=format:'%C(magenta)%h%C(reset) - %C(bold cyan)%ad%C(reset) %C(yellow)%d%C(reset) %s %C(bold blue)<%an>%C(reset)' --all
 	last = "!git lg --numstat -1"
 	lastdif = diff --cached HEAD^
-	filelog = log -u --filename
+	filelog = log -u
 	gconfig-e = config --global -e
 	gconfig-l = config --global --list
 	config-e = config -e
