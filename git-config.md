@@ -32,6 +32,6 @@
 	dc = diff --cached
 ```
 
-For example, three of the log alias:
+For example, here three of the log alias:
 
 ![git-alias-example](./git-alias.png)
