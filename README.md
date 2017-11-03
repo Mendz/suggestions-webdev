@@ -8,5 +8,9 @@ These are the primary programs that I currently use:
 
 * Text Editor - [VSCode extensions](./vscode-extensions.md)
 * Browser - [Chrome extensions](./chrome-extensions.md)
-* Command line (windows) - [Cmder](./cmder.md) -- (_Still in progress..._)
-* Git - [Git Config](./git-config.md)
+* Command line (windows)
+  * [Cmder](./command-line/cmder.md) -- (_Still in progress..._)
+  * [Usefully commands](./command-line/usefully-commands-comand-line.md)
+* Git
+  * [Git Config](./git/git-config.md)
+  * [Usefully commands](./git/usefully-commands-comand-git.md)
