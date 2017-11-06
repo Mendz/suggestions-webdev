@@ -11,7 +11,6 @@
 
 ```
 [alias]
-[alias]
 	st = status
 	sts = status -s
 	ck = checkout
