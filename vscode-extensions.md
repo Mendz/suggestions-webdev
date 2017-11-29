@@ -15,8 +15,7 @@
   * [Lorem ipsum](#lorem-ipsum-by-daniel-imms)
   * [ESLint](#eslint-by-dirk-baeumer)
   * [language stylus](#language-stylus-by-sysoev)
-  * [Project Manager](#project-manager-by-alessandro-fragnani)
-  * [Bookmarks](#bookmarks-by-alessandro-fragnani)
+  * [Git Lens — git blame annotations, code lens, and more](#git-lens--git-blame-annotations-code-lens-and-more-by-eric-amodio)
   * [Git History (git log)](#git-history-git-log-by-don-jayamanne)
   * [Local History](#local-history-by-xyz)
   * [Import Cost](#import-cost-by-wix)
@@ -42,7 +41,8 @@
   * [Hopscotch (Official)](#hopscotch-official-by-idleberg)
 * [Not using at the moment](#not-using-at-the-moment)
   * [Auto Close Tag](#auto-close-tag-by-jun-han)
-  * [jsx](#jsx-by-twentychung)
+  * [Project Manager](#project-manager-by-alessandro-fragnani)
+  * [Bookmarks](#bookmarks-by-alessandro-fragnani)
   * [npm Intellisense](#npm-intellisense-by-christian-kohler)
   * [Node.js Modules Intellisense](#nodejs-modules-intellisense-by-zongmin-lei)
   * [Path Intellisense](#path-intellisense-by-christian-kohler)
@@ -106,7 +106,6 @@
 
     Generates and inserts lorem ipsum text into Visual Studio Code.
 
-
 1. ### [ESLint] by [Dirk Baeumer]
    <!--  ![vscode-eslint](https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/1.3.2/1505894877100/Microsoft.VisualStudio.Services.Icons.Default) -->
 
@@ -118,18 +117,11 @@
 
    Adds syntax highlighting and code completion to Stylus files in Visual Studio Code.
 
-1. ### [Project Manager] by [Alessandro Fragnani]
-    ![project-manager](https://github.com/alefragnani/vscode-project-manager/raw/master/images/project-manager-commands.png)
+1. ### [Git Lens — git blame annotations, code lens, and more] by [Eric Amodio]
 
-      Manage your projects right inside Visual Studio Code. Easily access and switch between them.
+    ![git-lens](https://raw.githubusercontent.com/eamodio/vscode-gitlens/master/images/gitlens-preview.gif)
 
-      You can define your own Favorite projects, and auto-detect VSCode projects, Git and SVN repositories.
-
-1. ### [Bookmarks] by [Alessandro Fragnani]
-
-    ![Bookmarks](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/bookmarks-list.gif)
-
-    Mark lines in the editor and easily jump to them.
+    Supercharge Visual Studio Code's Git capabilities — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore the history of a file or branch, gain valuable insights via powerful comparison commands, and so much more.
 
 1. ### [Git History (git log)] by [Don Jayamanne]
 
@@ -234,7 +226,7 @@
 
 1. ### [Material Icon Theme] by [Philipp Kief]
 
-    ![material-icon-theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/file-icons.png)
+    ![material-icon-theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
 
     Material Design Icons for Visual Studio Code
 
@@ -274,9 +266,19 @@ Some extensions that I need to check if they are doing as they say, and while ot
 
     Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text does.
 
-1. ### [jsx] by [TwentyChung]
+1. ### [Project Manager] by [Alessandro Fragnani]
+    ![project-manager](https://github.com/alefragnani/vscode-project-manager/raw/master/images/project-manager-commands.png)
 
-    React JSX Support for Visual Studio Code
+      Manage your projects right inside Visual Studio Code. Easily access and switch between them.
+
+      You can define your own Favorite projects, and auto-detect VSCode projects, Git and SVN repositories.
+
+1. ### [Bookmarks] by [Alessandro Fragnani]
+
+    ![Bookmarks](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/bookmarks-list.gif)
+
+    Mark lines in the editor and easily jump to them.
+
 
 1. ### [npm Intellisense] by [Christian Kohler]
     ![npm-intellisense](https://github.com/ChristianKohler/NpmIntellisense/raw/master/images/auto_complete.gif)
@@ -342,6 +344,7 @@ Some extensions that I need to check if they are doing as they say, and while ot
 [Local History]: https://marketplace.visualstudio.com/items?itemName=xyz.local-history
 [Markdown PDF]: https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf
 [Material Icon Theme]: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+[Git Lens — git blame annotations, code lens, and more]: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
 <!-- Authors -->
 [2gua]: https://marketplace.visualstudio.com/search?term=publisher%3A%222gua%22&target=VSCode&category=All%20categories&sortBy=Relevance
@@ -381,3 +384,4 @@ Some extensions that I need to check if they are doing as they say, and while ot
 [xyz]: https://marketplace.visualstudio.com/search?term=publisher%3A%22xyz%22&target=VSCode
 [yzane]: https://marketplace.visualstudio.com/search?term=publisher%3A%22yzane%22&target=VSCode
 [Philipp Kief]: https://marketplace.visualstudio.com/search?term=publisher%3A%22Philipp%20Kief%22&target=VSCode
+[Eric Amodio]: https://marketplace.visualstudio.com/search?term=publisher%3A%22Eric%20Amodio%22&target=VSCode
