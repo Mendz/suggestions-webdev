@@ -12,6 +12,7 @@
 - [Grid Ruler](#grid-ruler)
 - [Grammarly for Chrome](#grammarly-for-chrome)
 - [ColumnCopy](#columncopy)
+- [Octotree](#octotree)
 - [Share Extensions](#share-extensions)
 
 1. ## [JSON Viewer]
@@ -78,6 +79,18 @@
 
     Enables copying columns from tables.
 
+1. ## [Octotree]
+
+    ![octotree](https://lh3.googleusercontent.com/mhU96i_fm1grjKQRkKQKm8G1MUX6Bw1YllQ_RvvXdCUVE51-6ZPQu-Em68cdlGVIIcNOGF61xLk=w640-h400-e365)
+
+    Code tree for GitHub
+    Extension to show code tree for GitHub and GitLab.
+
+    Features:
+    * Easy-to-navigate code tree like IDEs
+    * Support private repositories
+    * Support GitHub and GitLab Enterprise
+
 1. ## [Share Extensions]
 
      ![share-extensions](https://lh3.googleusercontent.com/cBMEmQuSUyxxQOHLo25S5tixLk1DGsGROiuopLV_GYO20XtoVyM4GAyNz5pPDtARepBtIb1wAKU=w640-h400-e365)
@@ -96,3 +109,4 @@
 [Grammarly for Chrome]: https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen
 [ColumnCopy]: https://chrome.google.com/webstore/detail/lapbbfoohlcmlbdaakldmmallcbcbpjb
 [Share Extensions]: https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe
+[Octotree]: https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc
