@@ -98,7 +98,7 @@
     Export your favorite Google Chrome™ extensions as BBCode, HTML, Wiki, Markdown or text. Share extensions via Twitter, Google Mail™.
 
 ---------------------------
-[Back to the TOP :arrow_up:](#chrome-extensions)
+[Back to the TOP](#chrome-extensions) ⬆
 
 
 <!--reference links-->
