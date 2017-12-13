@@ -97,6 +97,10 @@
 
     Export your favorite Google Chrome™ extensions as BBCode, HTML, Wiki, Markdown or text. Share extensions via Twitter, Google Mail™.
 
+---------------------------
+[Back to the TOP :arrow_up:](#chrome-extensions)
+
+
 <!--reference links-->
 [JSON Viewer]: https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh
 [Markdown Viewer]: https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk

@@ -302,6 +302,9 @@ Some extensions that I need to check if they are doing as they say, and while ot
 
     Port of IntelliJ IDEA key bindings for VS Code. Includes keymaps for popular JetBrains products like IntelliJ Ultimate, WebStorm, PyCharm, PHP Storm, etc.
 
+---------------------------
+[Back to the TOP :arrow_up:](#vscode-extensions)
+
 <!-- reference links -->
 [Rainbow Brackets]: https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets
 [HTML Snippets]: https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
