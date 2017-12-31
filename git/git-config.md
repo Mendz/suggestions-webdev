@@ -13,8 +13,10 @@
 [alias]
 	st = status
 	sts = status -s
+	stf = "!git fetch; git status"
 	ck = checkout
 	ci = commit -m
+	cia = commit -am
 	lg = log --graph --abbrev-commit --date=short --decorate --pretty=format:'%C(magenta)%h%C(reset) - %C(bold cyan)%ad%C(reset) %C(yellow)%d%C(reset) %s %C(green)%cr %C(bold blue)<%an>%C(reset)'
 	lgci = log --date=short --pretty=format:' %C(yellow)%d%C(reset) - %C(bold cyan)%ad%C(reset) %s'
 	lgtime = log --graph --date=local --abbrev-commit --decorate --pretty=format:'%C(magenta)%h%C(reset) - %C(bold cyan)%ad%C(reset) %C(yellow)%d%C(reset) %s %C(bold blue)<%an>%C(reset)'
@@ -32,7 +34,6 @@
 	la = "!git config -l | grep alias | cut -c 7-"
 	diff = diff --word-diff
 	dc = diff --cached
-	stf = "!git fetch; git status"
 ```
 
 For example, here three of the log alias:
