@@ -1,10 +1,14 @@
-# How to Create \ Merge branches 😎
+# How to Create \ Merge branches
 
 ### Table of contents:
 
 *  [Workflow](#workflow)
 *  [Commands](#commands)
 *  [For more information](#for-more-information)
+
+---
+
+I summarized the workflow from multiply sources. Please see the "_[For more information](#for-more-information)_" section.
 
 ## Workflow
 
@@ -101,7 +105,7 @@ There are two options:
 5. Merge branch to the master:
    ```bash
     git checkout master
-    git merge --no-ff contact-form
+    git merge --no-ff branch-b
    ```
 
 ---
