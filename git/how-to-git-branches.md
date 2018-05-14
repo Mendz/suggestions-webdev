@@ -8,7 +8,7 @@
 
 ---
 
-I summarized the workflow from multiply sources. Please see the "_[For more information](#for-more-information)_" section.
+I summarized the workflow from multiple sources. Please see the "_[For more information](#for-more-information)_" section.
 
 ## Workflow
 
@@ -61,7 +61,7 @@ There are two options:
 
 ## Commands:
 
-1. List branches:
+1. List of branches:
 
    *  Only remotes:
       ```bash
@@ -100,8 +100,6 @@ There are two options:
     git checkout [NAME_OF_YOUR_NEW_BRANCH]
    ```
 
----
-
 5. Merge branch to the master:
    ```bash
     git checkout master
@@ -118,4 +116,4 @@ If you need more information, I pretty much took the information from these plac
 *  [The Difference Between git-merge and git-merge-no-ff](https://stackoverflow.com/questions/9069061/what-is-the-difference-between-git-merge-and-git-merge-no-ff)
 *  [List Remote Branches](http://gitready.com/intermediate/2009/02/13/list-remote-branches.html)
 *  [For more information about Gits Merge Strategies](https://stackoverflow.com/questions/14243397/what-are-gits-merge-strategies)
-*  [From here I use took some of the commands, not the Workflow because it for something else](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
+*  [From here I use took some of the commands, not the Workflow because of it for something else](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
