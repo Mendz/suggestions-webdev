@@ -40,8 +40,15 @@
 	stash-a = stash apply
 	stash-s = stash show
 	stash-full = "!git stash clear; git stash show; git stash;"
+	change-msg = commit --amend
 ```
 
 For example, here three of the log alias:
 
 ![git-alias-example](./git-alias.png)
+
+To add a single alias use this command:
+
+```bash
+git config --global alias.[THE_ALIAS] [THE_REAL_COMMAND]
+```
