@@ -6,3 +6,4 @@
 - `git mv old_filename new_filename` : Rename a file, I found it useful when I needed to change the file extension. ([for more info](https://help.github.com/articles/renaming-a-file-using-the-command-line/))
 - `git log --grep='css'`: Filter the logs that have the word **css** in their commits. You can also add `--author=""` to filter by the commit author.
 - `git commit --amend`: Open the editor to change the last not pushed commit message. ([for more info](https://help.github.com/articles/changing-a-commit-message/))
+- `git reset --soft HEAD^`: Reset the index to the last commit while keeping the changes in the staging area. ([for more info](https://stackoverflow.com/questions/7214039/how-do-you-move-a-commit-to-the-staging-area-in-git))

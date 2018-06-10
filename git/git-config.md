@@ -16,6 +16,7 @@
 	ck = checkout
 	ci = commit -m
 	lg = log --graph --abbrev-commit --date=short --decorate --pretty=format:'%C(magenta)%h%C(reset) - %C(bold cyan)%ad%C(reset) %C(yellow)%d%C(reset) %s %C(green)%cr %C(bold blue)<%an>%C(reset)'
+	lgfilter = "!git lg --grep"
 	lgs = log --graph --numstat --abbrev-commit --date=short --decorate --pretty=format:'%C(magenta)%h%C(reset) - %C(bold cyan)%ad%C(reset) %C(yellow)%d%C(reset) %s %C(green)%cr %C(bold blue)<%an>%C(reset)'
 	lgci = log --date=short --pretty=format:' %C(yellow)%d%C(reset) - %C(bold cyan)%ad%C(reset) %s'
 	lgtime = log --graph --date=local --abbrev-commit --decorate --pretty=format:'%C(magenta)%h%C(reset) - %C(bold cyan)%ad%C(reset) %C(yellow)%d%C(reset) %s %C(bold blue)<%an>%C(reset)'
@@ -41,6 +42,7 @@
 	stash-s = stash show
 	stash-full = "!git stash clear; git stash show; git stash;"
 	change-msg = commit --amend
+	reset-ci = reset --soft HEAD^
 ```
 
 For example, here three of the log alias:
