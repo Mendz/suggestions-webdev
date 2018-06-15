@@ -9,10 +9,11 @@ These are the primary programs that I currently use:
 * Text Editor - [VSCode extensions](./vscode-extensions.md)
 * Browser - [Chrome extensions](./chrome-extensions.md)
 * Command line (windows)
-  * [Cmder](./command-line/cmder.md) -- (_Still in progress..._)
+  <!-- * [Cmder](./command-line/cmder.md) -- (_Still in progress..._) -->
   * [Usefully commands](./command-line/usefully-commands-comand-line.md)
 * Git
   * [Git Config](./git/git-config.md)
   * [Usefully commands](./git/usefully-commands-comand-git.md)
   * [How to Create \ Merge branches](./git/how-to-git-branches.md)
 * NPM - [Usefully commands](./npm-usefully-commands.md)
+<!-- * ESLint - [My configuration and how to install](./eslint/eslint.md) -->
